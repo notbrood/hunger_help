@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "960818074798",
+    "project_id": "hunger-help-vitb",
+    "storage_bucket": "hunger-help-vitb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960818074798:android:481363ed6667261059c93f",
+        "android_client_info": {
+          "package_name": "com.example.hunger_help"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "960818074798-7lafo7fjf9vglgtqhdrk6hdkfra1pkl0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hunger_help",
+            "certificate_hash": "6d455113dc664e90026fe50942cb88ac1f146c6a"
+          }
+        },
+        {
+          "client_id": "960818074798-b38rl4ps85scabv330kiv8v6s35bni29.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8Lzxd6iCIh6YKckN5OVy-EcZpTu02wZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "960818074798-b38rl4ps85scabv330kiv8v6s35bni29.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "960818074798-v9l66u78emfg6c6vpqi608flqkt40nk7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.hungerHelp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
